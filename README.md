@@ -9,9 +9,8 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 ## 🌱 Learning Journey
 I'm on a continuous learning path, focusing on:
 - Modern DevOps practices and tools.
-- Infrastructure as Code with **Terraform**.
-- Configuration management using **Ansible**.
-- The intricacies of custom ROM building and development for Android.
+- Infrastructure as Code with **Terraform** and **Ansible**.
+- Custom ROM building and development for Android devices.
 
 ## 🤝 Collaboration
 I'm eager to collaborate on interesting projects! If you have something in mind that you think I would enjoy, feel free to reach out.
