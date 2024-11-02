@@ -19,7 +19,7 @@ I'm eager to collaborate on interesting projects! If you have something in mind 
 You can connect with me here: [Telegram](https://t.me/bomboozler)
 
 ## ⚡ Fun Fact
-Avrage Arch enjoyer (aka I use Arch BTW lol) 
+I use Arch BTW lol 
 
 <!---
 bomboozler/bomboozler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
