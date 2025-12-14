@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm passionate about technology and enjoy working 
 
 ## 🌟 Interests
 - **Scripting:** Proficient in **Linux Bash** and **PowerShell** scripting.
-- **DevOps:** Currently exploring **DevOps tools** such as **Terraform** and **Ansible**, and learning how to build **custom ROMs**.
+- **DevOps:** Currently exploring **DevOps tools** such as **Ansible**, and learning how to build **Android custom ROMs**.
 
 ## 🌱 Learning Journey
 I'm on a continuous learning path, focusing on:
 - Modern DevOps practices and tools.
-- Infrastructure as Code with **Terraform** and **Ansible**.
+- Infrastructure as Code with **Ansible**.
 - Custom ROM building and development for Android devices.
 
 ## 🤝 Collaboration
@@ -19,7 +19,7 @@ I'm eager to collaborate on interesting projects! If you have something in mind 
 You can connect with me here: [Telegram](https://t.me/bomboozler)
 
 ## ⚡ Fun Fact
-I use Arch BTW lol 
+I use Arch BTW 
 
 <!---
 bomboozler/bomboozler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
